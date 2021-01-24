@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Blog
-subtitle: Advanced AI topics
+title: Hot AI topics
 ---
 
 coming soon!
