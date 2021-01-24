@@ -85,14 +85,14 @@ keywords: aymen shabou, artificial intelligence, AI, machine learning, deep lear
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#24aae2"
+navbar-col: "#24AAE2"
 navbar-text-col: "#404040"
-navbar-border-col: "#24aae2"
+navbar-border-col: "#24AAE2"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#24aae2"
-footer-col: "#24aae2"
+hover-col: "#24AAE2"
+footer-col: "#24AAE2"
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 
