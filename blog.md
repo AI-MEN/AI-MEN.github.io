@@ -3,4 +3,4 @@ layout: page
 title: Hot AI topics
 ---
 
-coming soon!
+A list of articles, tutorials, personal thoughts is coming soon!
